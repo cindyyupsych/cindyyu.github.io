@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "cindyyupsych.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,10 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
+publish:
+  type: github
+  repo: cindyyupsych/cindyyupsych.github.io

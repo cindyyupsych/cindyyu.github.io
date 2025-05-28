@@ -1,11 +1,11 @@
 ---
-title: "cindyyu.github.io"
+title: "Cindy Yu"
+
+about:
+  template: jolla
+  links:
+  - text: Email
+  href: mailto::cindyyupsych@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello! Welcome to my page. Please note this site is a work in progress.
