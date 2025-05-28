@@ -3,6 +3,14 @@ title: "Cindy Yu"
 
 about:
   template: jolla
+  
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:cindyyupsych@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/cindyyupsych
 ---
 
 Hello! Welcome to my page. Please note this site is a work in progress.
